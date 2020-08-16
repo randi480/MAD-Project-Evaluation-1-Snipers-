@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unicorn</string>
+    <string name="txtv1">Wears sellers</string>
+    <string name="txtv2">Seller name</string>
+    <string name="txtv5">Seller product</string>
+    <string name="txtv6">Seller name</string>
+    <string name="txtv7">Seller company</string>
+    <string name="t8">Company name</string>
+    <string name="t9">Other products</string>
+    <string name="t10">Seller location</string>
+    <string name="t11">Rate of seller</string>
+    <string name="t12">Contact No</string>
+    <string name="t13">NIC</string>
+    <string name="t14">Mail</string>
+</resources>
