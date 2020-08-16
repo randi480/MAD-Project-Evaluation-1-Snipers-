@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Customer Handling</string>
+
+    <string name ="SEARCH_CUSTOMER_ID">SEARCH CUSTOMER ID</string>
+    <string name="Daily_Customers">Daily Customers</string>
+    <string name="Super_Customers">Super Customers</string>
+
+    <string name="Customer_Details">Customer Details</string>
+    <string name="Womens_Fashion_and_Home_Appliances">Womens Fashion and Home Appliances</string>
+    <string name="Remove_Rewords">Remove Reword</string>
+    <string name="Update_Reword">Update Reword</string>
+</resources>
