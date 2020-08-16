@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Customer Care</string>
+
+    <string name="I_Want_to_know_where_my_order_is">I Want to know where my order is</string>
+    <string name="I_want_to_return_an_item">I want to return an item</string>
+    <string name="I_want_to_cancel_my_order">I want to cancel my order</string>
+
+</resources>
