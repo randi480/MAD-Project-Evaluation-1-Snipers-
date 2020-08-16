@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jewellery</string>
+    <string name="Msg1">My Favourites (2)</string>
+    <string name="Msg2">Seller: Mr. Michel Mathew</string>
+    <string name="Msg3">Seller: Benson Accessories</string>
+    <string name="Msg4">Silver Blue Opal Butterfly Necklace Chain for Women</string>
+    <string name="Msg5">Color Family:Blue,Chain Size:47cm</string>
+    <string name="Msg6">Rs. 499</string>
+    <string name="Msg7">Price dropped</string>
+    <string name="Msg8">Women Dangle Earrings</string>
+    <string name="Msg9">Color Family:Lake Blue,Earring Size:#N/A</string>
+    <string name="Msg10">Rs. 600</string>
+    <string name="Msg11">Clothing</string>
+    <string name="Msg12">Bags</string>
+    <string name="Msg13">Shoes</string>
+    <string name="Msg14">Jewellery</string>
+    <string name="Msg15">Cosmetic</string>
+    <string name="Msg16">Decoration</string>
+    <string name="Msg17">M.Michel Mathew</string>
+</resources>
