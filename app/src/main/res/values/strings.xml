@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">order</string>
+    <string name="txt1">Free Delivery Over 50$</string>
+    <string name="txt2">New Arrivals</string>
+    <string name="txt3">Shop By Category</string>
+    <string name="txt4">Isueer High Low Dress Grey...</string>
+    <string name="txt5">AhlaBuy New Satch.....</string>
+    <string name="btn1">View</string>
+    <string name="btn2">Remove</string>
+    <string name="btn3">Continue Shopping</string>
+    <string name="txt6">AhlaBuy New Satchel Bags, Ladies Hand Bags, Multiple Mother Bags</string>
+    <string name="txt7">Delivery Info</string>
+    <string name="txt8">Delivery Fee Rs.300</string>
+    <string name="txt9">Your Order Has Been Confirmed</string>
+    <string name="btn4">Cancel Order</string>
+    <string name="txt10">Select Payment Method</string>
+    <string name="txt11">3456 5*** **** 6789</string>
+</resources>
