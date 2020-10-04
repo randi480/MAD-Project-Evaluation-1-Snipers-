@@ -15,4 +15,9 @@
     <string name="btn4">Cancel Order</string>
     <string name="txt10">Select Payment Method</string>
     <string name="txt11">3456 5*** **** 6789</string>
+    <string name="txt12">BUY 3 GET 1 FREE</string>
+    <string name="bannert">Delivery</string>
+    <string name="ok">OK</string>
+    <string name="edit">EDIT</string>
+    <string name="district">District</string>
 </resources>
